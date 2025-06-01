@@ -1,8 +1,7 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-imbalanced-learn
-joblib
-flask
+Flask==2.2.5
+flask-cors==5.0.1
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.2.2
+xgboost==1.7.6
+joblib==1.3.1
